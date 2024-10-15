@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEncapsulamento8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{597FB035-5D8C-4E97-AA28-838CEE191CC3}|ExEncapsulamento8.csproj|d:\\documents\\estudos_lacerda\\curso - poo_c#\\exencapsulamento8\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597FB035-5D8C-4E97-AA28-838CEE191CC3}|ExEncapsulamento8.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597FB035-5D8C-4E97-AA28-838CEE191CC3}|ExEncapsulamento8.csproj|d:\\documents\\estudos_lacerda\\curso - poo_c#\\exencapsulamento8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597FB035-5D8C-4E97-AA28-838CEE191CC3}|ExEncapsulamento8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEncapsulamento8\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEncapsulamento8\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:59:47.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEncapsulamento8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEncapsulamento8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:58:28.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
