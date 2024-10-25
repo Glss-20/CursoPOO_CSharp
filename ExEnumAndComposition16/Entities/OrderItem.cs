@@ -8,6 +8,7 @@ namespace ExEnumAndComposition16.Entities
 {
     public class OrderItem
     {
+        public string Name { get; set; }
         public int Quantity { get; set; }
         public double Price { get; set; }
 
@@ -16,8 +17,9 @@ namespace ExEnumAndComposition16.Entities
         
         }
 
-        public OrderItem(int quantity, double price)
+        public OrderItem(string name, int quantity, double price)
         {
+            Name = name;
             Quantity = quantity;
             Price = price;
         }

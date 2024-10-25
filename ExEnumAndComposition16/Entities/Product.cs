@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ExEnumAndComposition16.Entities
 {
-    public class Product
-    {
+    public class Product // QUAL O SENTIDO DESSA CLASSE ELIO????
+    {  
         public string Name { get; set; }
         public double Price { get; set; }
 

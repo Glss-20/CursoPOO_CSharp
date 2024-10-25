@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEnumAndComposition14\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEnumAndComposition14\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEnumAndComposition14\\Entities\\Worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEnumAndComposition14\\Entities\\HourContract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\HourContract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEnumAndComposition14\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEnumAndComposition14\\Entities\\Departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,20 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEnumAndComposition14\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEnumAndComposition14\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAADMAAABYAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T01:44:41.822Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -51,20 +52,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Worker.cs",
               "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEnumAndComposition14\\Entities\\Worker.cs",
               "RelativeDocumentMoniker": "Entities\\Worker.cs",
               "ToolTip": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEnumAndComposition14\\Entities\\Worker.cs",
               "RelativeToolTip": "Entities\\Worker.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T02:38:06.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HourContract.cs",
               "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEnumAndComposition14\\Entities\\HourContract.cs",
               "RelativeDocumentMoniker": "Entities\\HourContract.cs",
@@ -88,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WorkerLevel.cs",
               "DocumentMoniker": "D:\\Documents\\ESTUDOS_LACERDA\\Curso - POO_C#\\ExEnumAndComposition14\\Entities\\Enums\\WorkerLevel.cs",
               "RelativeDocumentMoniker": "Entities\\Enums\\WorkerLevel.cs",
@@ -96,8 +97,7 @@
               "RelativeToolTip": "Entities\\Enums\\WorkerLevel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T02:39:28.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T02:39:28.288Z"
             }
           ]
         }

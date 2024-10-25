@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExEnumAndComposition16")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3f0c413a56345f36e9efab73a5f63c846c95222")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ccd3acb9f56beb2150fa2b9644b570078447f58")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExEnumAndComposition16")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExEnumAndComposition16")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

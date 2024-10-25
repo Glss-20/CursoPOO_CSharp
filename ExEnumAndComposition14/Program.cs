@@ -10,7 +10,7 @@ namespace ExEnumAndComposition14
         {
             Console.Write("Enter departament's name: ");
             string deptName  = Console.ReadLine();
-
+                
             Console.WriteLine("Enter work data: ");
             Console.Write("Name: ");
             string name = Console.ReadLine();
@@ -49,7 +49,7 @@ namespace ExEnumAndComposition14
             Console.WriteLine();
             Console.Write("Enther month and year to calculate income (MM/YYYY): ");
             string monthAnYear  = Console.ReadLine();
-            int month = int.Parse(monthAnYear.Substring(0,2));//Pega uma substring a partir do índice 0 e que tenha 2 caracteres de comprimento.
+            int month = int.Parse(monthAnYear.Substring(0,2));//Pega uma substring a par    tir do índice 0 e que tenha 2 caracteres de comprimento.
             int year = int.Parse(monthAnYear.Substring(3));// Aqui não é necessário indicar o comprimento da substring porque ela irá pegar o restante
                                                            //da string a partir do índice 3 até o fim.
 
